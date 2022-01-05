@@ -6,5 +6,6 @@
 
 
 해당 예측을 토대로 모의투자 진행중에 있음
-![9 30-01_1 87%_DOWN](https://user-images.githubusercontent.com/37290818/148171179-44709a26-9b28-4503-bf28-86ee6b36de0b.PNG)
-![9 29-30_0 8%_UP](https://user-images.githubusercontent.com/37290818/148171183-5e639767-c068-4332-a36f-4d945b79d85b.PNG)
+
+![9 29-30_0 8%_UP](https://user-images.githubusercontent.com/37290818/148171217-1df85122-2f9c-4cc2-a291-9db6f11a5b99.PNG)
+![9 30-01_1 87%_DOWN](https://user-images.githubusercontent.com/37290818/148171222-a020cb58-5c19-4f2f-aad7-940d4dc77a96.PNG)
